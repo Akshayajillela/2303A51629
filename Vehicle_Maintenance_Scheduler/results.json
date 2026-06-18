@@ -1,0 +1,32 @@
+[
+  {
+    "depotId": 1,
+    "mechanicHours": 60,
+    "maxImpact": 142,
+    "tasksSelected": 20
+  },
+  {
+    "depotId": 2,
+    "mechanicHours": 135,
+    "maxImpact": 188,
+    "tasksSelected": 34
+  },
+  {
+    "depotId": 3,
+    "mechanicHours": 188,
+    "maxImpact": 188,
+    "tasksSelected": 34
+  },
+  {
+    "depotId": 4,
+    "mechanicHours": 97,
+    "maxImpact": 175,
+    "tasksSelected": 27
+  },
+  {
+    "depotId": 5,
+    "mechanicHours": 164,
+    "maxImpact": 188,
+    "tasksSelected": 34
+  }
+]
